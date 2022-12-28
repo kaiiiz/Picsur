@@ -9524,6 +9524,7 @@ __metadata:
     "@types/passport-jwt": ^3.0.8
     "@types/passport-local": ^1.0.34
     "@types/passport-strategy": ^0.2.35
+    "@types/semver": ^7.3.12
     "@types/sharp": ^0.31.0
     "@types/supertest": ^2.0.12
     "@typescript-eslint/eslint-plugin": ^5.47.0
@@ -9552,6 +9553,7 @@ __metadata:
     reflect-metadata: ^0.1.13
     rimraf: ^3.0.2
     rxjs: ^7.8.0
+    semver: ^7.3.8
     sharp: ^0.31.3
     source-map-support: ^0.5.21
     stream-parser: ^0.3.1
